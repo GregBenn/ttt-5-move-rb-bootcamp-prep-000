@@ -17,4 +17,4 @@ input_to_index(user_input)
 
 #move(board, "1", "X")
 
-display_board(move)
+#display_board(move)
